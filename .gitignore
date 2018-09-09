@@ -1,7 +1,7 @@
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
-
+find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
 ## Build generated
 build/
 DerivedData/
