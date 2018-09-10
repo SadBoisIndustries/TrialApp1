@@ -8,13 +8,13 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
     </dependencies>
     <scenes>
-        <!--Collection View Controller-->
-        <scene sceneID="dVU-P3-zu7">
+        <!--View Controller-->
+        <scene sceneID="c0f-cr-ZJ7">
             <objects>
                 <collectionViewController id="EDc-Ty-4qD" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ki2-QD-Pw7" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-194.40000000000001" y="97.601199400299862"/>
+            <point key="canvasLocation" x="716" y="-448.42578710644682"/>
         </scene>
     </scenes>
 </document>
